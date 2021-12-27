@@ -6,8 +6,6 @@
  */
 const defaultModules = ["alert", "calendar", "clock", "compliments", "currentweather", "helloworld", "newsfeed", "weatherforecast", "updatenotification", "weather"];
 
-/* testing changes */
-
 /*************** DO NOT EDIT THE LINE BELOW ***************/
 if (typeof module !== "undefined") {
 	module.exports = defaultModules;
